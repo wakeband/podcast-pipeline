@@ -1,6 +1,10 @@
 ---
 name: podcast-pipeline
+version: 1.0.0
 description: Full podcast production assistant covering three modes: (1) Interview Prep -- research a guest and generate a question set plus a guest prep email before recording; (2) Post-Recording -- take a raw transcript and produce formatted show notes, social posts, and a YouTube description; (3) Solo Episode -- take a topic or outline and produce show notes, title options, and social posts. Use this skill whenever someone mentions a podcast episode, show notes, guest research, interview questions, episode transcript, or podcast content. Trigger on casual phrases too -- "I have a guest this week," "I need show notes," "can you prep me for my interview" should all activate this skill.
+metadata:
+  openclaw:
+    emoji: 🎙️
 ---
 
 # Podcast Production Pipeline
